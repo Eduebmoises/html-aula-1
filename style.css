@@ -1,16 +1,11 @@
-
-body{
+body
+{
     background-color: indigo;
-    
+    }
+p {color: goldenrod;
 }
-
-p{
-
-    color: goldenrod;
-
-}
-
-h1{ color: rgb(17, 181, 181);
+h1
+{ color: rgb(17, 181, 181);
 
 }
 a{
@@ -18,9 +13,8 @@ a{
  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-footer{
-
+footer
+{
     color: red;
-
-
+    
 }
