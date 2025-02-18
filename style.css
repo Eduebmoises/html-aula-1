@@ -1,5 +1,26 @@
 
 body{
     background-color: indigo;
-    color: white;
+    
+}
+
+p{
+
+    color: goldenrod;
+
+}
+
+h1{ color: rgb(17, 181, 181);
+
+}
+a{
+    color: yellowgreen ;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer{
+
+    color: red;
+
+
 }
