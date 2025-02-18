@@ -1,3 +1,9 @@
+header {
+    background-color: rgb(25, 71, 86);
+    color: rgb(227, 11, 11);
+
+}
+
 body
 {
     background-color: indigo;
@@ -16,5 +22,5 @@ a{
 footer
 {
     color: red;
-    
+
 }
