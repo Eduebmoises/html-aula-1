@@ -4,23 +4,33 @@ header {
 
 }
 
+img{
+
+    width: 488px;
+    height: 550px;
+    top: 235px;
+    left: 1030px;
+;
+
+}
+
 body
 {
-    background-color: indigo;
+    background-color: #433878;
     }
-p {color: goldenrod;
+p {color: #E4B1F0;
 }
 h1
-{ color: rgb(17, 181, 181);
+{ color: #7E60BF
 
 }
 a{
-    color: yellowgreen ;
+    color: #fdd49e;
  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 footer
 {
-    color: red;
+    color:#FFE1FF;
 
 }
