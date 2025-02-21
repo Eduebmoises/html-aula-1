@@ -15,6 +15,8 @@ img{
     height: 550px;
     top: 235px;
     left: 1030px;
+    padding: 5px;
+    
 ;
 
 }
@@ -32,6 +34,12 @@ body
     
    
 }
+
+.apresentacao{
+    display: flex;
+}
+
+
 p {color: #E4B1F0;
 }
 h1
