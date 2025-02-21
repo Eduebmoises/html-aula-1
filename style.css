@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
 header {
     background-color: rgb(25, 71, 86);
     color: rgb(227, 11, 11);
@@ -13,15 +18,20 @@ img{
 ;
 
 }
+
 .Título_destaque{
         color: #22D4FD;
-        border: 1px solid #22D4FD;
-        padding: 10px;
+       
+     
 }
 body
 {
-    background-color: #433878;
-    }
+     height: 100vh;
+     box-sizing: border-box;
+     background-color: #433878;
+    
+   
+}
 p {color: #E4B1F0;
 }
 h1
