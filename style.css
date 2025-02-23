@@ -42,6 +42,9 @@ body
     justify-content: space-between;
 }
 
+.apresentacao_conteudo{
+    width: 615px;
+}
 
 p {color: #E4B1F0;
 }
