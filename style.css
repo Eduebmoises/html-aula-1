@@ -54,7 +54,8 @@ body
     font-family: 'Krona One', sans-serif;
 }
 .apresentacao_conteudo_paragrafo{
-    font: size 24px;;
+    font-size: 24px;;
+    font-family: 'Josefin Sans', serif;
 }
 
 p {color: #E4B1F0;
