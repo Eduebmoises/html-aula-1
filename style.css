@@ -60,9 +60,16 @@ body
 .apresentacao_links{
     display: flex;
     justify-content: space-between;
-    
-}
 
+}
+.apresentacao_links_botao{
+    background-color:cornflowerblue;
+    width: 240px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    padding: 21.5px 0px;
+}
 p {color: #E4B1F0;
 }
 h1
