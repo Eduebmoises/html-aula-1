@@ -47,6 +47,8 @@ body
 
 .apresentacao_conteudo{
     width: 615px;
+    display: flex;
+    flex-direction: column;
 }
 
 .apresentacao_conteudo_titulo{
@@ -56,6 +58,7 @@ body
 .apresentacao_conteudo_paragrafo{
     font-size: 24px;;
     font-family: 'Josefin Sans', serif;
+    color:ivory;
 }
 .apresentacao_links{
     display: flex;
@@ -69,6 +72,7 @@ body
     border-radius: 16px;
     font-size: 24px;
     padding: 21.5px 0px;
+    text-decoration:none;
 }
 p {color: #E4B1F0;
 }
