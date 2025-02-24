@@ -89,5 +89,9 @@ a{
 footer
 {
     color:#FFE1FF;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: yellow;
+    font-size: 26px;
 
 }
