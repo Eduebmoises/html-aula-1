@@ -57,6 +57,11 @@ body
     font-size: 24px;;
     font-family: 'Josefin Sans', serif;
 }
+.apresentacao_links{
+    display: flex;
+    justify-content: space-between;
+    
+}
 
 p {color: #E4B1F0;
 }
